@@ -2,15 +2,15 @@
 
 ## Descrição do Projeto
 
-Este repositório contém o trabalho final da disciplina de Sistemas Distribuídos, onde utilizamos Docker e Docker Compose para construir uma aplicação distribuída. A aplicação é implementada em JavaScript, Node.js e MongoDB. O foco do projeto é criar um site para listar filmes, classificando-os entre "Para Assistir" e "Assistidos".
+    Este repositório contém o trabalho final da disciplina de Sistemas Distribuídos, onde utilizamos Docker e Docker Compose para construir uma aplicação distribuída. A aplicação é implementada em JavaScript, Node.js e MongoDB. O foco do projeto é criar um site para listar filmes, classificando-os entre "Para Assistir" e "Assistidos".
 
 ## Tecnologias Utilizadas
 
-- JavaScript
-- Node.js
-- MongoDB
-- Docker
-- Docker Compose
+    - JavaScript
+    - Node.js
+    - MongoDB
+    - Docker
+    - Docker Compose
 
 ## Como Executar o Projeto
 
